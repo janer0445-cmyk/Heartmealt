@@ -1,0 +1,15 @@
+{
+  "name": "heartmealt",
+  "version": "1.0.0",
+  "description": "Dating and social web app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "uuid": "^9.0.1"
+  }
+}
